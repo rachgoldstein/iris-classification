@@ -1,0 +1,22 @@
+LDA classifier:
+	Training error:
+		Virginica: 1/40
+		Versicolor: 2/40
+		Setosa: 0/40
+	Test error:
+		Virginica: 0/10
+		Versicolor: 0/10
+		Setosa: 0/10
+
+QDA classifier:
+	Training error:
+		Virginica: 0/40
+		Versicolor: 0/40
+		Setosa: 0/40
+	Test error:
+		Virginica: 0/10
+		Versicolor: 0/10
+		Setosa: 0/10
+
+Setosa class is linearly separable (test and training data both have 0 error rate)
+All classes are quadratically separable
